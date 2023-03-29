@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/ParadauxIO/FriendlyBot">
+  <a href="https://clove.ie">
     <img src="clove-circle-bg.png" alt="Logo" width="170" height="170">
   </a>
 
