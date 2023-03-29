@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/ParadauxIO/FriendlyBot">
-    <img src="clove-circle-bg.png" alt="Logo" width="170" height="170">
+  <a href="https://clove.ie">
+    <img src="clove_logo_halftp.png" alt="Logo" width="170" height="170">
   </a>
 
 <h3 align="center"><a href="https://clove.ie">Clove Software</a></h3>
